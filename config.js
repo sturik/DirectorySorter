@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Programs",
+    "extensions": [
+      ".exe",
+      ".pkg",
+      ".dmg",
+      ".msi"
+    ]
+  },
+  {
+    "name": "Compressed",
+    "extensions": [
+      ".zip",
+      ".rar"
+    ]
+  },
+  {
+    "name": "Documents",
+    "extensions": [
+      ".doc",
+      ".docx",
+      ".csv",
+      ".txt",
+      ".pdf",
+      ".xls",
+      ".ppt",
+      ".xlsx",
+      ".pptx"
+    ]
+  },
+  {
+    "name": "Music",
+    "extensions": [
+      ".mp3",
+      ".wav"
+    ]
+  },
+  {
+    "name": "Videos",
+    "extensions": [
+      ".mp4",
+      ".mkv"
+    ]
+  },
+  {
+    "name": "Pictures",
+    "extensions": [
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".svg",
+      ".gif",
+      ".tif",
+      ".tiff"
+    ]
+  }
+]
